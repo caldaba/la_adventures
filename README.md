@@ -1,4 +1,4 @@
-## Rails Girls 2015 
+## Rails Girls 2018 
     
     ---
     
@@ -9,7 +9,7 @@
     
     A bucket list for Los Angeles. This is a list of all the things I'd like to do in case I moved out of Los Angeles and never got to return. All the things I think about doing all the time but haven't made time to do yet.
     
-    *Made by* **Your Name**  
+    *Made by* **Carla Aldaba**  
     On 10-20-2018  
     
     My Coach: Daniel Uribe  
